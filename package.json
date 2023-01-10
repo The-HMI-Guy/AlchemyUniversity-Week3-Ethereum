@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "alchemy-sdk": "^2.2.5"
-  }
+  },
+  "name": "alchemyuniversity-week3-ethereum",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-HMI-Guy/AlchemyUniversity-Week3-Ethereum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-HMI-Guy/AlchemyUniversity-Week3-Ethereum/issues"
+  },
+  "homepage": "https://github.com/The-HMI-Guy/AlchemyUniversity-Week3-Ethereum#readme"
 }
