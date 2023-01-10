@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "alchemy-sdk": "^2.2.5"
+    "alchemy-sdk": "^2.2.5",
+    "axios": "^1.2.2"
   },
   "name": "alchemyuniversity-week3-ethereum",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
